@@ -1,0 +1,53 @@
+
+body{
+    background-color:#ff99ff; 
+}
+
+form{
+    margin: 30px;
+    background-color: #cc0099;
+}
+
+.top{
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+input{
+    height: 30px;
+    width: 500px;
+}
+
+.left{
+    float: left;
+    padding-right: 20px;
+}
+
+.right{
+    float: right;
+}
+
+.sub{
+    margin-bottom: 20px;
+}
+
+.sub input{
+    height: 30px;
+    width: 81%;
+}
+
+.mess input{
+    height: 300px;
+    width: 81%;
+}
+
+button{
+    margin-top: 20px;
+    margin-left: 400px;
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    border: 2px solid #e6005c;
+    background-color: #ff99ff;
+}
